@@ -36,7 +36,3 @@ The system analyzes social media content, audience sentiment, trending topics, a
 
 User Input → LangFlow → IBM Granite Model → AI Agents → Insights Dashboard
 
-## Team
-
-Student Name:
-Email:
