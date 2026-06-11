@@ -1,0 +1,19 @@
+{
+  "name": "AI Social Media Agent",
+  "version": "1.0",
+  "description": "Agentic AI Social Media Analytics and Content Generation System",
+  "technology": [
+    "LangFlow",
+    "IBM watsonx.ai",
+    "IBM Granite Model",
+    "RAG"
+  ],
+  "model": "Granite-4.0-8B-Instruct",
+  "agents": [
+    "Social Data Collection Agent",
+    "Sentiment Analysis Agent",
+    "Content Generation Agent",
+    "Trend Prediction Agent",
+    "Analytics Agent"
+  ]
+}
