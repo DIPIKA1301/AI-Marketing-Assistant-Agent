@@ -1,27 +1,42 @@
-Social-Media-Agent/
-│
-├── README.md
-│
-├── app.json
-│
-├── Problem_Statement_No10_Social_Media_Agent.pdf
-│
-├── Social_Media_Agent_Project_Presentation.pptx
-│
-├── langflow/
-│   └── social_media_agent_flow.json
-│
-├── data/
-│   ├── social_media_posts.csv
-│   ├── hashtags_dataset.csv
-│   └── competitor_data.csv
-│
-├── src/
-│   ├── sentiment_analysis.py
-│   ├── content_generator.py
-│   ├── trend_prediction.py
-│   └── analytics_dashboard.py
-│
-└── screenshots/
-    ├── langflow_workflow.png
-    └── dashboard.png
+# AI-Powered Social Media Agent
+
+## Project Overview
+An Agentic AI-based Social Media Assistant built using LangFlow, IBM watsonx.ai, and IBM Granite Models.
+
+The system analyzes social media content, audience sentiment, trending topics, and generates intelligent content recommendations.
+
+## Features
+
+- Multi-platform social media analysis
+- Sentiment analysis
+- AI-generated captions and posts
+- Trend prediction
+- Hashtag recommendation
+- Engagement analytics dashboard
+
+## Technology Stack
+
+- LangFlow
+- IBM watsonx.ai
+- IBM Granite Models
+- RAG
+- Vector Database
+- Python
+- Streamlit
+
+## AI Agents
+
+1. Social Data Collection Agent
+2. Sentiment Analysis Agent
+3. Content Generation Agent
+4. Trend Prediction Agent
+5. Analytics Agent
+
+## Workflow
+
+User Input → LangFlow → IBM Granite Model → AI Agents → Insights Dashboard
+
+## Team
+
+Student Name:
+Email:
